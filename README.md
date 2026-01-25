@@ -1,65 +1,90 @@
-syloxsyloxraw/inbnnralt="Banner" 10%Sylx👋</h1>
-<h3>🚀 | 🔍 Search EngeBulder | 💻 PowerShell Ethusiast3p>
-    <slx0e75b6&lbel=Profile+viewsProfle vew  slx&color=0e75b6&label=Followers  slx?tyl=fo-the-bdge&color=0e75b6&label=Stars" alt="Stars">
-    <ig src="https://img.shilds.io/badge/Status-Active-brightgreentu  p>
-</<divlign="center">
- <img src="htts://redme-typing-vg.herokuapp.com?font=Fira+Code&ize=22&durat=3000&puse=1000&color=0e75b6&center=true&vCenter=ru&idth=600&lines=Passionate+W+Der;Building+Sah+Engines;PowerShell+Atomation+Expet;Op+o+Coboatio" alt="Typ SVG">
+<div align="center">
+  <img rc="https://github.com/sr/r/ma/ae.gif" width="0">
+  <h1>Hi, I'm or   Web Developer in in</h>
+  
+  <img rc="https://komarev.com/ghpvc/?username=syor&style=for-the-badge&color=a" alt="iis">
+   <imgsrc="https://img.shields.io/github/followers/yor?style=for-the-badgeel=Followrs" at"">
+   <imgsrc="https://img.shields.io/github/stars/yorserame?syle=for-the-badge" alt="Stats">
 </div>
 
-I'm apssioate **WebDevelope** ith expertsebuingsarchngins and autatio oolsinnovativ solutions th make web browsng system management moreeficient.
-
-- 🔭 Crrely workng  **serch engine deveopment**
-- 🌱 Learning**advanced technooges nd auomat**
--👯 Looking o collboraeon **open urce projects**
-- 💬 Ask me about **web deveopmnt,seach engins, nd PowerShel**
- ⚡ Fun fact: **I buitos that make the wb ore accesible**ack
-
-### 💻 Progrmming Languages
-<div align="enter">
-  <img src="https://sillicons.dev/icons?i=javascript,typescript,python,powershell,html,css" alt="Programming Languages">
-</div> 🎨 Development ⚙️ Development🛠️ Plafomporshellwinws49slx&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d99slx10&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9slxhub&title=0e75b6&text=c9d1d9
-<div align="center">  <img src="https://github-readmeactivitygraph.vercel.app/graph?username=sylorx&theme=reactdark&hide_border=true&bg_color=0d1117&color=0e75b6&line=0e75b6&point=c9d1d9" alt="Activity Graph"></div>
 ---
 
- & Productivityslx&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9�Featured Projes
+## 🙋‍♂️ About Me
 
-<d algn="cener">
- <table>
-    <t>
-      <td width="50%">
-        < href="htts://github.com/sylorx/searc-engine">          mgsrc="https://github-readme-stts.verce.app/api/pn/?username=sylorx&repo=search-enie&theme=dark&hide_border=true&bg_color=0d1117&title_color0e75b6&text_color=c9d1d9 alt="searh-gine">
-        </a>
-      </d>
-      <td width="50%">
-        <a hrf="https://github.com/sylox/WinDeploy        stts.verel.app/api/pin/?username=sylorx&repo=WinDeploy&heme=dark&hde_border=true&bg_color=0d1117&ttle_color=0e75b6&text_color=c9d1d9" al="WinDeplo">
-        </a>
-      </td>
-    </tr>
-    <t>
-      <td width="50%">
-        < href="htts://gitubcom/sylorx/sylorx">
-          <img src="https://github-readme-stats.i/pin/me=sylorx&repo=sylorx&thee=dark&hide_border=true&bg_color=0d1117&title_color=075b6&text_color=c9d1d9" alt"slrx">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://githb.com/sylox">
-          <img src="https://githubreadme-stats.vercel.app/api/pin/?=sylorxrepo=&&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9More Projets">
-        </a>
-      </td>
-    </tr>
-  </able>
-</d>
+ a passionatewebvelopeercurentllarning an rwi in ldi e eeomnt. I love creatg ineatiand  funtional web liation tat sole real-ld olems
 
 ---
 
-## 📈 Reposor Overview
+## 🛠️ Technology Stack
 
-###🔍 Seach Engine
-- **Lnguage**: JavaScrit
-- **Stars**: 2 ⭐
-- **Description**: Web browsing searc engine
-- **Features**: Advanced search capabilities, web crawling
+### Frontendpment
+<div align="center">
+  <img src="htts://skillicons.dev/icons?i=htl,css,js,react,vu,bootstrap,tailwind" alt="FroendTechnologies">
+</div>
 
-### ⚡ WinDeploy
-- **Language**: PowerShell
-- **Description**: Windows deployment automation tool- **Features**: Automated eployment scripts, system configuratonslxslxslxslx.gihub.Sylrx** | **Building the Fute ofWb🚀
+###  Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Technologies">
+</div>
+
+###  Tools &trs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,we,dos,linux" alt="Tool">
+</div>
+
+---
+
+## 📊 My Github Stats
+
+<div align="center">
+  <img width="%" src="http://github-readme-stats.verce.app/api?username=sylor&show_icons=truetheme=dark&hide_order=true&include_all_commits=true&count_private=true&b" alt="GitHub Stats">
+  <img width="4%" rc="https://github-readme-stats.verce.app/api/top-langs/?username=sylor&layout=compact&theme=dark&hide_border=true&langs_count=" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="http://github-profile-trophy.verce.app/?username=sylor&theme=darkno-frame=rue&no-bg=true&margn-w=4&it" alt="Trophies">/>
+
+<div
+---
+
+## 🔥Streak Stats 
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=syortheme=dark&hide_order=true&b" alt="Streak Stats">
+</div>
+
+---
+
+## � ctivit raph
+<i align="center">
+   <imgrc="hp://github-readme-statsctiityraph.vercel.app/ap?username=your-username&theme=darkhide_order=true&b" alt="ctivity raph
+dtion
+
+---
+
+## 🤝 Le's Cnnect
+
+<div align="ceter">
+  <a href="http://inkedin.com/in/sylor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?tyle=for-the-badge&logo=linkedin&logoColor=white" at="LinkedIn">
+  </a>
+  <a href="https://twitter.com/sylor" target="_blank">
+    <img rc="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:syor@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://yor.githubio" target="_blank">
+    <im src="https://mg.sields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61abc5d23bc6b8a5656/gith-markdown-animationgif" width="50">
+</div>
+
+---
+
+⭐ **From our e** 
