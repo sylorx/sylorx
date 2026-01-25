@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sylorx&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sylorx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
