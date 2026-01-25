@@ -80,11 +80,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylorx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sylorx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sylorx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sylorx&theme=tokyonight&no-frame=true&margin-w=8" alt="Trophies" />
 </div>
 
 <div align="center">
