@@ -91,10 +91,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylorx&theme=tokyonight&cache_seconds=1800" alt="Profile Details" />
 </div>
 
-<div align="center">
-  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=sylorx&theme=tokyo-night&hide_border=true&cache_seconds=1800" alt="Activity Graph" />
-</div>
-
 ---
 
 ## 🐍 Contributions Snake
